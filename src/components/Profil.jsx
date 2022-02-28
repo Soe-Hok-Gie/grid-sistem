@@ -10,6 +10,11 @@ const Profil = () => {
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, obcaecati.</p>
           </div>
         </div>
+        <div className="row pb-3">
+          <div className="col-4">
+            <img src="./assets/potret.png" alt="" class="img-fluid" />
+          </div>
+        </div>
       </div>
     </div>
   );
