@@ -2,7 +2,7 @@ import React from "react";
 
 const Galeri = () => {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid galeri py-5">
       <div className="container">
         <div className="row">
           <div className="col">

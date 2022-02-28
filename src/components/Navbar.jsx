@@ -1,9 +1,8 @@
 import React from "react";
-import "./Style.css";
 
 const Navbar = () => {
   return (
-    <div className="container-fluid py-5">
+    <div className="container-fluid navbar py-5">
       <div className="container">
         <div className="row">
           <div className="col-12">
