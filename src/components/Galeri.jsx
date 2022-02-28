@@ -44,6 +44,14 @@ const Galeri = () => {
             <img src="./assets/2.png" alt="" class="img-fluid" />
           </div>
         </div>
+        <div className="row">
+          <div className="col-4 offset-2">
+            <img src="./assets/3.png" alt="" class="img-fluid" />
+          </div>
+          <div className="col-4">
+            <img src="./assets/3.png" alt="" class="img-fluid" />
+          </div>
+        </div>
       </div>
     </div>
   );
