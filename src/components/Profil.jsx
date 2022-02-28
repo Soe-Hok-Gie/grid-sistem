@@ -14,6 +14,12 @@ const Profil = () => {
           <div className="col-4">
             <img src="./assets/potret.png" alt="" class="img-fluid" />
           </div>
+          <div className="col-4 offset-1 text-end">
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate necessitatibus voluptates quae eligendi at deserunt praesentium fugit modi provident esse neque numquam, totam delectus reiciendis reprehenderit pariatur
+              sequi saepe explicabo distinctio laboriosam facilis tempore doloribus alias illum. Laudantium sunt aliquid, quo odio repellat nihil maiores accusamus doloribus nam repudiandae ullam.
+            </p>
+          </div>
         </div>
       </div>
     </div>
