@@ -30,6 +30,20 @@ const Galeri = () => {
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
         </div>
+        <div className="row my-3">
+          <div className="col-3 ">
+            <img src="./assets/2.png" alt="" class="img-fluid" />
+          </div>
+          <div className="col-3 ">
+            <img src="./assets/2.png" alt="" class="img-fluid" />
+          </div>
+          <div className="col-3 ">
+            <img src="./assets/2.png" alt="" class="img-fluid" />
+          </div>
+          <div className="col-3 ">
+            <img src="./assets/2.png" alt="" class="img-fluid" />
+          </div>
+        </div>
       </div>
     </div>
   );
