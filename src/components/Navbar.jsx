@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="container-fluid navbar py-5">
+    <div className="container-fluid-navbar py-5">
       <div className="container">
         <div className="row">
           <div className="col-12">
