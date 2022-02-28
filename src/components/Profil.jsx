@@ -10,7 +10,7 @@ const Profil = () => {
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, obcaecati.</p>
           </div>
         </div>
-        <div className="row pb-3">
+        <div className="row pb-3 align-items-center">
           <div className="col-4">
             <img src="./assets/potret.png" alt="" class="img-fluid" />
           </div>
@@ -19,6 +19,9 @@ const Profil = () => {
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate necessitatibus voluptates quae eligendi at deserunt praesentium fugit modi provident esse neque numquam, totam delectus reiciendis reprehenderit pariatur
               sequi saepe explicabo distinctio laboriosam facilis tempore doloribus alias illum. Laudantium sunt aliquid, quo odio repellat nihil maiores accusamus doloribus nam repudiandae ullam.
             </p>
+          </div>
+          <div className="col-2 offset-1">
+            <button class="btn btn-dark">Mari Mencoba</button>
           </div>
         </div>
       </div>
