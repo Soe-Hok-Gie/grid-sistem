@@ -11,22 +11,22 @@ const Galeri = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-lg-2 col-md-4 mt-3">
+          <div className="col-lg-2 col-md-4 col-sm-6 mt-3">
             <img src="./assets/1.png" alt="" class="img-fluid" />
           </div>
         </div>
