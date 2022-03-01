@@ -31,16 +31,16 @@ const Galeri = () => {
           </div>
         </div>
         <div className="row my-3">
-          <div className="col-3 ">
+          <div className="col-lg-3 col-md-6 mt-3">
             <img src="./assets/2.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-3 ">
+          <div className="col-lg-3 col-md-6 mt-3">
             <img src="./assets/2.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-3 ">
+          <div className="col-lg-3 col-md-6 mt-3">
             <img src="./assets/2.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-3 ">
+          <div className="col-lg-3 col-md-6 mt-3">
             <img src="./assets/2.png" alt="" class="img-fluid" />
           </div>
         </div>
