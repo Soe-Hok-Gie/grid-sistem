@@ -45,10 +45,10 @@ const Galeri = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-4 offset-lg-2 col-md-5 offset-md-1">
+          <div className="col-lg-4 offset-lg-2 col-md-5 offset-md-1">
             <img src="./assets/3.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-4 col-md-5">
+          <div className="col-lg-4 col-md-5">
             <img src="./assets/3.png" alt="" class="img-fluid" />
           </div>
         </div>
