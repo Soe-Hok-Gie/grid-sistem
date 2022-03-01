@@ -11,10 +11,10 @@ const Profil = () => {
           </div>
         </div>
         <div className="row pb-3 align-items-center">
-          <div className="col-4">
+          <div className="col-lg-4 col-md-6">
             <img src="./assets/potret.png" alt="" class="img-fluid" />
           </div>
-          <div className="col-4 offset-1 text-end">
+          <div className="col-lg-4 offset-lg-1 col-md-6  text-end">
             <p>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate necessitatibus voluptates quae eligendi at deserunt praesentium fugit modi provident esse neque numquam, totam delectus reiciendis reprehenderit pariatur
               sequi saepe explicabo distinctio laboriosam facilis tempore doloribus alias illum. Laudantium sunt aliquid, quo odio repellat nihil maiores accusamus doloribus nam repudiandae ullam.
