@@ -20,7 +20,7 @@ const Profil = () => {
               sequi saepe explicabo distinctio laboriosam facilis tempore doloribus alias illum. Laudantium sunt aliquid, quo odio repellat nihil maiores accusamus doloribus nam repudiandae ullam.
             </p>
           </div>
-          <div className="col-2 offset-1">
+          <div className="col-lg-2 offset-lg-1 col-md-12 text-center mt-3">
             <button class="btn btn-dark">Mari Mencoba</button>
           </div>
         </div>
