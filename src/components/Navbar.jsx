@@ -10,7 +10,7 @@ const Navbar = () => {
           </div>
         </div>
         <div className="row mt-3">
-          <div className="col-6 text-end">
+          <div className="col-md-6 text-end order-2">
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis autem tenetur dolorum distinctio labore qui, minima maiores molestias voluptatem, voluptatum velit, laudantium numquam. Suscipit magnam vitae quasi rem, sed
               dolorum itaque sint temporibus repellat architecto porro eos soluta velit fugit.
