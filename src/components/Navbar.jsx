@@ -16,7 +16,7 @@ const Navbar = () => {
               dolorum itaque sint temporibus repellat architecto porro eos soluta velit fugit.
             </p>
           </div>
-          <div className="col-5 offset-1">
+          <div className="col-lg-5 col-md-6 offset-lg-1">
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium quo commodi et explicabo, aspernatur sunt veniam, illo unde deleniti voluptates aut dolorum repellat magnam tempore velit consequuntur corrupti cum ab
               reprehenderit facilis rerum, alias saepe!
